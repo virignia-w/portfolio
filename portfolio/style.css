@@ -1,0 +1,20 @@
+
+.navbar{
+    background-color: lavender !important;
+}
+
+li a {
+    color: blueviolet !important;
+}
+li a:hover{
+    background-color: beige;
+    color: blueviolet;
+}
+
+.navbar-toggler{
+    background-color: beige;
+}
+
+.navbar-brand img{
+    width: 50px;
+}
