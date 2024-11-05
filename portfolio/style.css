@@ -1,6 +1,11 @@
 
 .navbar{
     background-color: lavender !important;
+    
+}
+
+nav{
+    height: 70px;
 }
 
 li a {
@@ -17,4 +22,14 @@ li a:hover{
 
 .navbar-brand img{
     width: 50px;
+}
+
+.content{
+    height: 628px;
+    margin-top: 70px;
+}
+
+.footer{
+    height: 70px;
+    background-color: lavender !important;
 }
